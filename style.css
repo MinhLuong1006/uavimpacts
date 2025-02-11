@@ -1,0 +1,156 @@
+body {
+
+    background-image: linear-gradient(to right,rgb(0, 0, 0), rgb(0, 0, 0));
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title{
+    font-size: 48px;
+    margin-top: -10px;
+    text-align: center;
+    
+}
+
+
+.Overall
+{
+    background-image: linear-gradient(to right,rgb(255, 230, 0), rgba(255, 230, 0));
+    color: rgb(19, 30, 37);
+    
+}
+.about{
+    font-size: 18px;
+    margin-left: 120px;
+}
+
+#contact{
+    background: none;
+    padding: 15px 40px;
+    
+}
+
+#intro{
+    font-size: 48px;
+    margin-left: 120px;
+    color: rgb(255, 230, 0);
+}
+
+.introtext{
+    font-size: 21px;
+    margin-left: 120px;
+    line-height: 1.3;
+    
+    color: rgb(255, 255, 255);
+}
+#text1{
+    margin-top: -10px;
+}
+.img1{
+    display: block;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 120px;
+    width: 45%;
+    height: 45%;
+    color: white;
+    float: right;
+  
+}
+
+#img1describe{
+    margin-top: -1px;
+}
+
+
+#historyintro{
+    font-size: 48px;
+    color: rgb(255, 230, 0);
+    text-align: center;
+    border: 3px solid yellow;
+    border-radius: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.img2{
+    display: block;
+    margin-top: 0px;
+    margin-left: 120px;
+    margin-right: 50px;
+    width: 40%;
+    height: 40%;
+    color: white;
+    float: left;
+}
+
+#firstdrone{
+    margin-top: -10px;
+    font-size: 30px;
+    color: rgb(255, 230, 0);
+}
+
+#text3{
+    margin-top: -10px;
+    line-height: 1.3;
+    margin-right: 120px;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+}
+
+#afterww1{
+    margin-top: 170px;
+    margin-bottom: -10px;
+    margin-left: 120px;
+    font-size: 30px;
+    color: rgb(255, 230, 0);
+}
+
+.img3{
+    display: block;
+    margin-bottom: 50px;
+    margin-top: -50px;
+    margin-left: 10px;
+    margin-right: 120px;
+    width: 45%;
+    height: 45%;
+    color: white;
+    float: right;
+}
+
+#text4{
+    margin-top: 20px;
+    line-height: 1.3;
+    margin-left: 120px;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+}
+
+
+#coldwar{
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: 30px;
+    color: rgb(255, 230, 0);
+}
+
+.img4{
+    display: block;
+    margin-top: 0px;
+    margin-left: 120px;
+    margin-right: 50px;
+    width: 40%;
+    height: 40%;
+    color: white;
+    float: left;
+}
+#img4describe{
+    margin-left: 120px;
+}
+
+#text5{
+    margin-top: -10px;
+    line-height: 1.3;
+    margin-right: 120px;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+}
