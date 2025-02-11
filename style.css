@@ -4,13 +4,13 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
+/*OVERALL INFORMATION*/
 #title{
     font-size: 48px;
     margin-top: -10px;
     text-align: center;
     
 }
-
 
 .Overall
 {
@@ -21,14 +21,19 @@ body {
 .about{
     font-size: 18px;
     margin-left: 120px;
-}
-
-#contact{
-    background: none;
-    padding: 15px 40px;
     
 }
 
+#contact{
+   
+    
+    
+    
+}
+/*OVERALL INFORMATION*/
+
+
+/*INTRODUCTION*/
 #intro{
     font-size: 48px;
     margin-left: 120px;
@@ -60,8 +65,10 @@ body {
 #img1describe{
     margin-top: -1px;
 }
+/*INTRODUCTION*/
 
 
+/*HISTORY*/
 #historyintro{
     font-size: 48px;
     color: rgb(255, 230, 0);
@@ -154,3 +161,4 @@ body {
     font-size: 21px;
     color: rgb(255, 255, 255);
 }
+/*HISTORY*/
